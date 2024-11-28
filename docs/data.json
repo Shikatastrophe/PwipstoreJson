@@ -2,7 +2,7 @@
     {
         "id":"1",
         "description":"¡Esta figura de Ashe te encantará!",
-        "image":"../assets/products/ashe.jpg",
+        "image":".../assets/products/ashe.jpg",
         "isNew":"false",
         "oldPrice":"500",
         "price":"300",
@@ -12,7 +12,7 @@
     {
         "id":"2",
         "description":"Completa tu colección con esta figura de Baptiste.",
-        "image":"../assets/products/baptiste.jpg",
+        "image":"./assets/products/baptiste.jpg",
         "isNew":"true",
         "oldPrice":"500",
         "price":"250",
